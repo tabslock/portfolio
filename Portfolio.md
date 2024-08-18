@@ -1,12 +1,12 @@
 Ekteki facebook gruplarının sahibiyim ve ticaretimi arttırmak için birkaç deneme yapmıştım. Görüntülerin güzel olduğuna dair geri dönüşler almıştım fakat eksikler, hız konusunda hatalarımı şu an görebiliyorum. Satışlarıma çok etkisi olmadığı için birkaç gün uğraştığım bu projeleri yapıp aktif olarak kullanmaya devam etmedim.
 
-[facebook](https://raw.githubusercontent.com/tabslock/portfolio/main/resim/fbgrup.png)
+![facebook](https://raw.githubusercontent.com/tabslock/portfolio/main/resim/fbgrup.png)
 
 Wix kullanarak yaptığım için çok eksik şeyle karşılaştım ama uğraşması zevkliydi. Site linkleri:
 
 [RiotMarkt](https://riotmarkt.com)
 
-![EasyEpin](https://easyepin.com)
+[EasyEpin](https://easyepin.com)
 
 Wixin kendi araçları olmasına rağmen mobile görünümde çok fazla çözülemeyen hata vardı. Masaüstünde daha hatasız görüntüler elde edebiliyordum. Bunları 2023'de okula başladığım zaman yapmıştım.
 
@@ -23,6 +23,6 @@ WordPressin imkanlarını ve hazır olan birsürü şeyi gördükten sonra aklı
 
 [GuruKo](https://guruko.com)
 
-### Guruko
+### GuruKo
 
 ![grk](https://raw.githubusercontent.com/tabslock/portfolio/main/resim/Screenshot_5.png)
