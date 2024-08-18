@@ -23,4 +23,6 @@ WordPressin imkanlarını ve hazır olan birsürü şeyi gördükten sonra aklı
 
 [GuruKo](guruko.com)
 
+### EasyEpin
+
 ![grk](https://raw.githubusercontent.com/tabslock/portfolio/main/resim/Screenshot_5.png)
